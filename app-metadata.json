@@ -1,0 +1,13 @@
+{
+  "name": "Technitium DNS Server",
+  "source": "https://technitium.com/dns/",
+  "docker_image": "technitium/dns-server:15.6.2",
+  "version": "15.6.2",
+  "repository": "https://github.com/waskevin/tnas-app-technitium-dns-server",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Technitium DNS Server container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
