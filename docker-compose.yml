@@ -1,0 +1,6 @@
+services:
+  technitium-dns-server:
+    image: technitium/dns-server:15.6.2
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
